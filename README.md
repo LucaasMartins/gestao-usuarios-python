@@ -1,0 +1,1 @@
+Um projeto feito em Python3, neste projeto pensei em mostrar meu conhecimento na linguagem, e mostrar que é possível fazer projetos interessantes de forma simples, sem a necessidade de códigos complicados. 
